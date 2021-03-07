@@ -1,3 +1,7 @@
+// compile 
+//gcc mqtt_subs_1.c -o subs_1 -lmosquitto -lpthread
+// excute 
+// ./sub_1
 #include <stdio.h>
 #include <mosquitto.h>
 #include <stdio.h>
